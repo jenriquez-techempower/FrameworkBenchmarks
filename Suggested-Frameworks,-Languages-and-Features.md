@@ -28,6 +28,7 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 * [Happstack](http://www.happstack.com/page/view-page-slug/1/happstack)
 
 ### Java
+* [Armeria](https://line.github.io/armeria/)
 * [Grails](https://grails.org/) (Update to 3.0.x)
 * [Stripes](https://github.com/StripesFramework/stripes)
 
