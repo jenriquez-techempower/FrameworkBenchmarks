@@ -43,9 +43,7 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 ### Ruby
 * [Cuba](https://github.com/soveran/cuba)
 * [Goliath](https://github.com/postrank-labs/goliath)
-* [Hanami](https://github.com/hanami/hanami)
 * [Raptor](https://github.com/garybernhardt/raptor) ([Phusion Passenger 5](https://github.com/phusion/passenger))
-* [Reel](https://github.com/celluloid/reel)
 * [Webmachine](https://github.com/webmachine/webmachine-ruby)
 
 ## Languages
