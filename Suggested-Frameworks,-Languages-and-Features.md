@@ -32,7 +32,6 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 
 ### PHP
 * [Aura](http://auraphp.com/)
-* [Drupal](https://www.drupal.org/)
 * [PHP-PM](https://github.com/php-pm/php-pm)
 * [RadarPHP](https://github.com/radarphp/Radar.Project)
 * [ReactPHP](https://github.com/reactphp/react)
@@ -49,10 +48,6 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 * [Raptor](https://github.com/garybernhardt/raptor) ([Phusion Passenger 5](https://github.com/phusion/passenger))
 * [Reel](https://github.com/celluloid/reel)
 * [Webmachine](https://github.com/webmachine/webmachine-ruby)
-
-### Swift
-* [Perfect](https://github.com/PerfectlySoft/Perfect)
-* [Kitura](https://github.com/IBM-Swift/Kitura)
 
 ## Languages
 * [R](https://www.r-project.org/)
