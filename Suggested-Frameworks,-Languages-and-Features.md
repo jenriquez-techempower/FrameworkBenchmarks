@@ -36,7 +36,6 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 * [RadarPHP](https://github.com/radarphp/Radar.Project)
 * [ReactPHP](https://github.com/reactphp/react)
 * [Smce](https://github.com/peterkokot/smceframework-MVC)
-* [Swoole](https://github.com/swoole/swoole-src)
 * [ThinkPHP](https://github.com/top-think/think)
 * [Zend Expressive](https://github.com/zendframework/zend-expressive)
 * [Zend](https://framework.zend.com/) (update to v3)
