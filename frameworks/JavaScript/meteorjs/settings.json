@@ -1,0 +1,3 @@
+{
+    "MONGO_URL": "mongodb://tfb-database:27017/hello_world"
+}
